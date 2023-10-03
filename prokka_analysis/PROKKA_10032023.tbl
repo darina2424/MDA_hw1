@@ -1,0 +1,40 @@
+>Feature NODE_1_length_29907_cov_150.822528
+1629	370	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JJICAIEL_00001
+			product	hypothetical protein
+2009	1644	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JJICAIEL_00002
+			product	hypothetical protein
+2509	2144	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JJICAIEL_00003
+			product	hypothetical protein
+2701	2516	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JJICAIEL_00004
+			product	hypothetical protein
+3380	2712	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JJICAIEL_00005
+			product	hypothetical protein
+4510	3683	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JJICAIEL_00006
+			product	hypothetical protein
+8340	4519	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JJICAIEL_00007
+			product	hypothetical protein
+16135	8348	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JJICAIEL_00008
+			product	hypothetical protein
+29637	16420	CDS
+			EC_number	3.1.1.106
+			gene	ymdB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01205
+			locus_tag	JJICAIEL_00009
+			product	O-acetyl-ADP-ribose deacetylase

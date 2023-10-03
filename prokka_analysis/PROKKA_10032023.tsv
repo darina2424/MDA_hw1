@@ -1,0 +1,10 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+JJICAIEL_00001	CDS	1260				hypothetical protein
+JJICAIEL_00002	CDS	366				hypothetical protein
+JJICAIEL_00003	CDS	366				hypothetical protein
+JJICAIEL_00004	CDS	186				hypothetical protein
+JJICAIEL_00005	CDS	669				hypothetical protein
+JJICAIEL_00006	CDS	828				hypothetical protein
+JJICAIEL_00007	CDS	3822				hypothetical protein
+JJICAIEL_00008	CDS	7788				hypothetical protein
+JJICAIEL_00009	CDS	13218	ymdB	3.1.1.106		O-acetyl-ADP-ribose deacetylase

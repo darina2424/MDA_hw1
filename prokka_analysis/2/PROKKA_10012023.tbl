@@ -1,0 +1,33 @@
+>Feature NODE_3_length_5584_cov_13759.613946
+456	1013	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NNEMONAP_00001
+			product	hypothetical protein
+1259	1143	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NNEMONAP_00002
+			product	hypothetical protein
+1717	1259	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NNEMONAP_00003
+			product	hypothetical protein
+1974	1714	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NNEMONAP_00004
+			product	hypothetical protein
+3512	1971	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NNEMONAP_00005
+			product	hypothetical protein
+4562	3576	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NNEMONAP_00006
+			product	hypothetical protein
+5098	4571	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NNEMONAP_00007
+			product	hypothetical protein
+5502	5209	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NNEMONAP_00008
+			product	hypothetical protein
